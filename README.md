@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Laravel**
 
-- 🤝 I’m looking for help with **any project**
+- 🤝 I’m looking for help with **Laravel, Nodejs**
 
 - 💬 Ask me about **Javascript,PHP,Laravel**
 
