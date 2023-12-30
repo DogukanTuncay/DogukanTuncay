@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/dogukantuncay"><img src="https://github-profile-trophy.vercel.app/?username=dogukantuncay" alt="dogukantuncay" /></a> </p>
 
-- 🔭 I’m currently working on **Laravel**
+- 🔭 I’m currently working on **Laravel, Vue.js**
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Laravel, Vue.js**
 
-- 🤝 I’m looking for help with **Laravel, Nodejs**
+- 🤝 I’m looking for help with **Laravel, Vue.js**
 
-- 💬 Ask me about **Javascript,PHP,Laravel**
+- 💬 Ask me about **Javascript,PHP,Laravel, Vue.js**
 
 - 📫 How to reach me **dogukantuncay1@gmail.com**
 
@@ -21,7 +21,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fcodefiction%2Fbir-vue-js-g%25C3%25BCzellemesi-ead979056326&psig=AOvVaw0q9ILUoBRe9nNFJAVzwGq-&ust=1704005175946000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPjUuIvItoMDFQAAAAAdAAAAABAD" alt="mysql" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dogukantuncay&show_icons=true&locale=en&layout=compact" alt="dogukantuncay" /></p>
 
