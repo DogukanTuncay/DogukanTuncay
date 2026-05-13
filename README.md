@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Doğukan TUNÇAY</h1>
-<h3 align="center">A beginner full stack developer from Türkiye</h3>
+<h3 align="center">A full stack developer from Türkiye</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DogukanTuncay&label=Profile%20views&color=0e75b6&style=flat" alt="dogukantuncay" /> </p>
 
